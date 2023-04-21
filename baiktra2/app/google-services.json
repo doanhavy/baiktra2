@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54953035270",
+    "firebase_url": "https://advancecrud-default-rtdb.firebaseio.com",
+    "project_id": "advancecrud",
+    "storage_bucket": "advancecrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54953035270:android:8bbefdeadd4196384a2587",
+        "android_client_info": {
+          "package_name": "com.communityuni.advancedrealtimedatabasefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54953035270-5nij3i1iapu5s4u1tlk70ov3pce46fq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV4GTu5au0jcWNPL1gRuToFYb-ydU8afM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54953035270-5nij3i1iapu5s4u1tlk70ov3pce46fq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
